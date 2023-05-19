@@ -1,3 +1,4 @@
+<p align="center"> <img src="Banner.jpg" alt="martico09" /> </p>
 <h1 align="center">Hi 👋, I'm Prakhar Sharma</h1>
 <h3 align="center">A Passionate Ai Developer</h3>
 
